@@ -1,7 +1,6 @@
 name: penyewaan_alat_camping
 description: >
-  Model domain penyewaan alat camping dalam Dart murni (tanpa Flutter),
-  dibuat untuk tugas P02 — Dart OOP Challenge.
+  Model domain penyewaan alat camping 
 version: 1.0.0
 publish_to: none
 
