@@ -9,6 +9,6 @@ satu alat tidak bisa disewa dua kali sekaligus
 tersedia), dan alat yang kembali rusak otomatis masuk status perbaikan,
 bukan langsung tersedia lagi.
 
-- Keputusan yang sempat diragukan: Member mau dibuat lewat komposisi (menyimpan Penyewa ke field), tapi karena seorang member adalah penyewa — hanya beda di besar diskon — pewarisan
+- Keputusan yang sempat diragukan: Member mau dibuat lewat komposisi (menyimpan Penyewa ke field), tapi karena seorang member adalah penyewa  hanya beda di besar diskon pewarisan
 (Member extends Penyewa) dipilih agar Member bisa dipakai langsung
 di mana pun Penyewa diharapkan.
